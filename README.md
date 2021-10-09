@@ -14,6 +14,8 @@ Replaces player emotes, villager expressions, and so on!
 3. Grab the latest release on GitHub or Nexus, then add the whole unzipped folder into your Mods folder.
 4. Smile and enjoy~ owo
 
+If you want your friends to see this emote, tell them to install this mod too! In multiplayer, other players won't be able to see this emote if they don't have this mod installed. Instead, it'll just show up as the default :3 emote for them otherwise.
+
 (This is a mod for the game Stardew Valley.)
 
 ## Config
