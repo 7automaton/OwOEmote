@@ -12,5 +12,9 @@
           "UniqueID": "spacechase0.GenericModConfigMenu",
           "IsRequired": false
         }
+    ],
+    "UpdateKeys": [
+        "Nexus:9848",
+        "GitHub:7automaton/OwOEmote"
     ]
 }
