@@ -1,6 +1,6 @@
 # OwO Emote
 
-<img src="owo-emote-banner.gif" width="42%">
+<img src="owo-emote-banner.gif" width="57%">
 
 Vewy fancy!! Replaces the :3 emote with an OwO emote~
 
@@ -20,7 +20,7 @@ Replaces player emotes, villager expressions, and so on!
 
 *If you prefer,* there is a variant just for aesthetics that lowers the height of the eyes on the emote, providing a calmer look.
 
-<img src="tall-vs-small.png" width="20%">
+<img src="tall-vs-small.png" width="32%">
 
 You can change this setting in-game by installing the [Generic Mod Config](https://www.nexusmods.com/stardewvalley/mods/5098) mod! (It also can be useful for configuring other mods like this one.)
 
